@@ -1,0 +1,23 @@
+{
+  "name": "bloc-jams",
+  "version": "1.0.0",
+  "description": "\"bloc jams\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test bloc-jams"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinekshin/bloc-jams.git"
+  },
+  "keywords": [
+    "bloc",
+    "jams"
+  ],
+  "author": "christine",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/christinekshin/bloc-jams/issues"
+  },
+  "homepage": "https://github.com/christinekshin/bloc-jams#readme"
+}
